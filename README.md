@@ -1,4 +1,4 @@
-Hands-on labe update - Lisa
+Hands-on labe update - Lisa Thacker
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
